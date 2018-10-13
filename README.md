@@ -1,5 +1,7 @@
 # startup_namer
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/startup_namer.svg)](https://www.guardrails.io)
+
 Generate startups names
 
 ## Getting Started
